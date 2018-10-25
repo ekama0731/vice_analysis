@@ -1,0 +1,923 @@
+,fiscal_week,retailer_name_on_ad,brand_name_on_ad,website_ad_rank,ad_impressions,ad_clicks,ad_conversions,total_ad_spend,channel_name,advertiser_name
+0,3,0,1,6,56,3,0,0.28,Influencer,Nightgold
+1,1,0,0,2,3045,16,13,1.67,Influencer,Nightgold
+2,1,0,1,1,3381,13,5,13.0,Influencer,Nightgold
+3,9,0,1,2,50,6,0,0.45,Influencer,Nightgold
+4,1,0,0,7,7,1,0,1.0,Influencer,Nightgold
+5,13,0,1,5,308,18,4,13.2,Influencer,Nightgold
+6,8,0,1,6,63,7,6,2.33,Influencer,Nightgold
+7,12,0,1,7,630,10,2,3.33,Affiliate,Nightgold
+8,12,0,0,4,4466,172,23,21.36,Affiliate,Nightgold
+9,2,0,1,4,77,5,0,1.25,Affiliate,Nightgold
+10,4,0,1,1,98,12,0,6.55,Affiliate,Nightgold
+11,2,1,1,2,21028,19,9,11.18,Affiliate,Nightgold
+12,3,0,1,2,462,2,1,0.24,SEO/Organic,Nightgold
+13,5,0,1,9,1505,2,1,0.1,SEO/Organic,Nightgold
+14,10,0,0,5,98,2,1,0.24,SEO/Organic,Nightgold
+15,11,0,1,5,63,9,2,1.69,SEO/Organic,Nightgold
+16,12,0,0,1,98,15,10,3.46,SEO/Organic,Nightgold
+17,10,0,1,9,77,1,0,0.08,Social Media,Nightgold
+18,5,0,1,4,343,6,3,0.44,Social Media,Nightgold
+19,12,0,0,10,49,1,0,0.12,Social Media,Nightgold
+20,10,0,1,2,63,2,1,0.38,Social Media,Nightgold
+21,13,0,0,7,126,6,1,2.4,Direct,Nightgold
+22,1,0,0,5,6160,16,0,3.43,Direct,Nightgold
+23,13,1,1,4,70,1,0,0.12,Direct,Nightgold
+24,12,0,1,6,77,4,3,1.33,Direct,Nightgold
+25,13,0,1,8,910,70,66,21.45,Direct,Nightgold
+26,4,1,1,4,2527,2,1,0.02,Direct,Nightgold
+27,6,0,0,5,78,74,46,24.67,Influencer,Lagoonware
+28,8,1,1,2,70,1,0,0.12,Influencer,Lagoonware
+29,6,1,1,5,679,16,14,0.33,Influencer,Lagoonware
+30,5,0,1,8,133,6,5,1.2,Influencer,Lagoonware
+31,6,0,0,8,973,1,0,0.12,Influencer,Lagoonware
+32,6,1,1,10,10423,4058,993,111.47,Influencer,Lagoonware
+33,1,1,0,1,609,3,0,0.5,Influencer,Lagoonware
+34,6,1,1,8,602,287,185,5.63,Influencer,Lagoonware
+35,3,0,1,3,147,1,0,0.12,Affiliate,Lagoonware
+36,4,0,1,1,33,6,4,0.25,Affiliate,Lagoonware
+37,2,0,1,9,910,22,15,3.47,Affiliate,Lagoonware
+38,11,0,1,8,11585,5,2,1.25,Affiliate,Lagoonware
+39,9,0,1,10,3472,94,79,27.18,Affiliate,Lagoonware
+40,6,0,1,1,686,5,4,0.23,SEO/Organic,Lagoonware
+41,4,0,1,5,25830,9,4,1.13,SEO/Organic,Lagoonware
+42,7,0,0,7,413,1,0,0.12,SEO/Organic,Lagoonware
+43,13,0,0,8,728,221,24,73.29,SEO/Organic,Lagoonware
+44,11,0,1,3,147,2,0,1.0,SEO/Organic,Lagoonware
+45,7,0,1,6,1008,18,5,3.38,Social Media,Lagoonware
+46,5,0,0,10,35,5,4,0.61,Social Media,Lagoonware
+47,10,0,0,9,3045,62,35,13.53,Social Media,Lagoonware
+48,2,0,1,2,140,9,8,1.13,Social Media,Lagoonware
+49,13,0,0,3,1281,1,0,0.06,Social Media,Lagoonware
+50,12,0,1,3,343,8,5,1.14,Social Media,Lagoonware
+51,13,1,1,8,322,6,0,0.73,Social Media,Lagoonware
+52,1,1,1,3,7812,118,73,6.94,Social Media,Lagoonware
+53,12,1,1,6,854,8,3,1.14,Direct,Lagoonware
+54,6,0,1,8,133,1,0,0.19,Direct,Lagoonware
+55,7,0,1,5,308,2,1,0.55,Direct,Lagoonware
+56,7,0,0,2,1827,34,12,11.33,Influencer,Tulipdew
+57,13,0,0,6,136213,4,3,0.18,Influencer,Tulipdew
+58,3,0,1,9,11,7,0,1.17,Influencer,Tulipdew
+59,6,0,1,9,287,2,1,0.41,Influencer,Tulipdew
+60,8,0,0,4,1806,1,0,0.14,Influencer,Tulipdew
+61,9,0,0,9,175,6,1,0.38,Influencer,Tulipdew
+62,13,0,0,2,49,18,17,6.75,Influencer,Tulipdew
+63,2,0,0,6,420,2,1,0.24,Affiliate,Tulipdew
+64,6,0,1,3,42,1,0,0.1,Affiliate,Tulipdew
+65,2,1,1,2,784,546,366,18.05,SEO/Organic,Tulipdew
+66,5,0,1,10,1505,39,1,11.14,SEO/Organic,Tulipdew
+67,5,0,0,10,5040,6,4,1.67,SEO/Organic,Tulipdew
+68,9,0,1,7,1554,14,6,0.09,SEO/Organic,Tulipdew
+69,11,0,0,3,28,20,6,6.67,SEO/Organic,Tulipdew
+70,2,0,1,4,728,15,3,4.62,SEO/Organic,Tulipdew
+71,3,0,1,6,336,67,48,18.17,SEO/Organic,Tulipdew
+72,8,0,1,4,3472,158,2,38.37,SEO/Organic,Tulipdew
+73,1,0,1,9,630,38,5,13.41,SEO/Organic,Tulipdew
+74,3,0,1,10,49,10,0,3.33,Social Media,Tulipdew
+75,4,0,1,10,343,1,0,0.07,Social Media,Tulipdew
+76,12,1,1,3,385,1,0,0.12,Social Media,Tulipdew
+77,12,0,1,6,33,9,3,1.13,Social Media,Tulipdew
+78,8,0,1,2,3381,7,2,4.67,Social Media,Tulipdew
+79,13,0,1,3,336,12,2,3.27,Social Media,Tulipdew
+80,5,0,1,10,161,74,21,23.55,Direct,Tulipdew
+81,13,0,1,10,308,69,27,35.07,Direct,Tulipdew
+82,10,0,1,4,336,89,59,20.28,Direct,Tulipdew
+83,3,0,1,4,924,1,0,0.12,Direct,Tulipdew
+84,10,0,0,3,7665,88,37,15.79,Direct,Tulipdew
+85,8,1,0,4,133,38,16,20.12,Direct,Tulipdew
+86,12,0,1,1,175,3,2,0.25,Influencer,Webrews
+87,5,0,1,6,308,12,5,5.45,Influencer,Webrews
+88,13,1,1,5,294,1,0,0.12,Influencer,Webrews
+89,8,0,1,8,728,60,48,9.06,Influencer,Webrews
+90,10,1,1,10,623,215,105,32.64,Influencer,Webrews
+91,10,0,1,2,11585,844,717,229.36,Influencer,Webrews
+92,5,0,0,1,14,1,0,0.23,Influencer,Webrews
+93,8,0,0,2,70,2,0,0.24,Affiliate,Webrews
+94,9,0,1,2,336,50,9,13.64,Affiliate,Webrews
+95,4,1,1,4,252,1,0,0.12,SEO/Organic,Webrews
+96,12,0,1,8,49,2,1,0.24,SEO/Organic,Webrews
+97,9,0,0,4,110474,2,0,0.12,SEO/Organic,Webrews
+98,7,0,1,3,308,42,8,14.76,SEO/Organic,Webrews
+99,4,0,0,6,294,4,1,1.33,SEO/Organic,Webrews
+100,8,0,0,9,147,8,2,3.43,Social Media,Webrews
+101,10,1,0,4,21028,1,0,0.12,Social Media,Webrews
+102,8,0,0,7,49,18,8,6.75,Direct,Webrews
+103,5,0,0,1,364,6,0,0.43,Direct,Webrews
+104,1,0,1,8,147,8,0,2.29,Direct,Webrews
+105,4,0,1,2,1554,14,5,0.09,Direct,Webrews
+106,9,0,0,4,4466,588,321,214.02,Direct,Webrews
+107,12,0,0,1,30961,237,220,81.26,Influencer,Karmarts
+108,11,0,1,3,25830,148,33,28.24,Influencer,Karmarts
+109,12,0,0,9,4466,545,289,168.9,Influencer,Karmarts
+110,3,0,1,1,4060,101,40,5.61,Influencer,Karmarts
+111,5,1,0,4,182,8,3,0.29,Influencer,Karmarts
+112,9,0,0,2,42,29,27,8.92,Influencer,Karmarts
+113,6,0,1,5,3472,94,27,27.18,Influencer,Karmarts
+114,1,1,1,5,16835,451,170,21.29,Affiliate,Karmarts
+115,6,0,0,4,77,11,4,3.3,Affiliate,Karmarts
+116,8,0,1,3,11585,1391,400,351.14,Affiliate,Karmarts
+117,6,0,1,8,287,48,10,12.28,Affiliate,Karmarts
+118,7,0,0,2,70,40,23,17.14,Affiliate,Karmarts
+119,12,1,1,7,7812,528,117,12.88,Affiliate,Karmarts
+120,1,0,1,4,49,6,3,1.2,Affiliate,Karmarts
+121,2,0,1,2,112,23,4,3.45,SEO/Organic,Karmarts
+122,8,0,1,2,175,3,1,0.25,SEO/Organic,Karmarts
+123,11,0,0,4,56,2,1,0.24,SEO/Organic,Karmarts
+124,3,0,1,2,875,11,10,1.1,SEO/Organic,Karmarts
+125,12,1,1,10,30863,676,398,13.27,Social Media,Karmarts
+126,2,0,0,4,105,27,8,19.12,Social Media,Karmarts
+127,2,0,1,7,14,5,1,0.03,Social Media,Karmarts
+128,2,0,1,1,98,3,2,1.0,Social Media,Karmarts
+129,2,0,1,6,14,1,0,0.12,Social Media,Karmarts
+130,8,0,1,8,175,89,16,14.81,Direct,Karmarts
+131,13,0,0,4,973,39,33,22.94,Direct,Karmarts
+132,13,0,0,3,4466,70,18,6.77,Direct,Karmarts
+133,2,1,1,7,16835,301,107,6.64,Direct,Karmarts
+134,13,0,0,10,5040,1,0,0.28,Direct,Karmarts
+135,1,1,1,4,294,16,7,1.95,Direct,Karmarts
+136,1,0,0,1,19747,1,0,0.12,Direct,Karmarts
+137,9,0,1,3,336,73,48,12.35,Influencer,Pyramid Softwares
+138,3,0,1,8,77,2,1,0.47,Influencer,Pyramid Softwares
+139,7,0,0,10,14,2,1,0.24,Influencer,Pyramid Softwares
+140,8,0,1,10,322,62,19,12.4,Influencer,Pyramid Softwares
+141,2,0,1,6,322,1,0,0.21,Influencer,Pyramid Softwares
+142,5,0,1,5,343,12,11,1.2,Influencer,Pyramid Softwares
+143,1,0,0,5,175,1,0,0.12,Influencer,Pyramid Softwares
+144,1,0,0,9,721,43,5,10.18,Influencer,Pyramid Softwares
+145,8,0,0,7,14,1,0,0.12,Affiliate,Pyramid Softwares
+146,6,0,1,3,35,3,2,1.0,Affiliate,Pyramid Softwares
+147,13,0,1,7,1183,1,0,0.04,Affiliate,Pyramid Softwares
+148,12,1,1,6,308,3,2,0.08,SEO/Organic,Pyramid Softwares
+149,3,0,0,3,1806,47,34,7.83,SEO/Organic,Pyramid Softwares
+150,13,1,1,6,987,584,178,23.68,SEO/Organic,Pyramid Softwares
+151,7,1,1,10,343,2,1,0.14,SEO/Organic,Pyramid Softwares
+152,1,0,1,3,35,1,0,0.12,SEO/Organic,Pyramid Softwares
+153,9,0,1,5,3472,203,0,78.94,SEO/Organic,Pyramid Softwares
+154,11,0,1,2,3472,112,56,29.41,Social Media,Pyramid Softwares
+155,6,0,0,1,7665,1,0,0.12,Social Media,Pyramid Softwares
+156,7,0,1,2,98,18,5,5.63,Social Media,Pyramid Softwares
+157,13,0,1,1,4256,1,0,0.12,Social Media,Pyramid Softwares
+158,5,0,1,9,4060,42,13,5.68,Social Media,Pyramid Softwares
+159,13,0,1,7,63,10,0,2.22,Direct,Pyramid Softwares
+160,4,0,0,8,511,48,10,13.4,Direct,Pyramid Softwares
+161,12,0,0,10,1526,83,24,22.43,Direct,Pyramid Softwares
+162,8,0,0,10,30961,63,26,10.13,Direct,Pyramid Softwares
+163,11,0,1,4,1554,1535,1367,65.32,Direct,Pyramid Softwares
+164,8,0,1,5,11585,1150,800,400.98,Influencer,Heart Records
+165,10,0,0,7,136213,2,0,0.09,Influencer,Heart Records
+166,8,1,1,9,1330,4,3,0.01,Influencer,Heart Records
+167,2,0,0,6,3969,116,68,16.89,Influencer,Heart Records
+168,5,0,1,10,1589,9,5,1.13,Influencer,Heart Records
+169,11,1,0,4,182,80,28,10.14,Influencer,Heart Records
+170,7,0,0,2,35,2,1,0.24,Affiliate,Heart Records
+171,6,0,1,5,77,1,0,0.12,Affiliate,Heart Records
+172,8,1,1,10,428,5,4,0.04,Affiliate,Heart Records
+173,4,0,1,1,133,11,3,3.3,Affiliate,Heart Records
+174,1,0,1,2,2170,2,1,0.33,Affiliate,Heart Records
+175,9,0,0,9,49,2,1,1.0,Affiliate,Heart Records
+176,9,0,0,10,63,4,3,1.33,Affiliate,Heart Records
+177,2,0,1,1,49,6,5,2.4,SEO/Organic,Heart Records
+178,3,0,1,5,133,6,2,1.2,SEO/Organic,Heart Records
+179,8,0,0,7,21,17,11,6.8,SEO/Organic,Heart Records
+180,7,1,1,4,30863,526,409,10.32,SEO/Organic,Heart Records
+181,13,1,1,6,119,1,0,0.12,SEO/Organic,Heart Records
+182,10,0,1,10,7,4,0,0.02,SEO/Organic,Heart Records
+183,7,0,1,6,14,1,0,0.2,Social Media,Heart Records
+184,10,0,1,10,161,74,25,23.55,Social Media,Heart Records
+185,11,0,0,5,224,1,0,0.12,Social Media,Heart Records
+186,12,0,1,5,63,8,2,2.29,Social Media,Heart Records
+187,4,0,1,6,63,2,1,0.24,Social Media,Heart Records
+188,6,0,1,5,441,50,49,10.23,Social Media,Heart Records
+189,3,0,1,4,728,23,7,4.6,Social Media,Heart Records
+190,9,0,1,6,1589,42,17,9.08,Direct,Heart Records
+191,1,1,1,5,735,11,2,1.34,Direct,Heart Records
+192,4,0,0,5,1806,40,2,6.86,Direct,Heart Records
+193,2,0,1,8,28,1,0,0.12,Influencer,Jungle Navigations
+194,13,0,1,8,3472,149,26,40.64,Influencer,Jungle Navigations
+195,1,0,1,5,175,53,7,12.4,Influencer,Jungle Navigations
+196,7,1,1,8,2464,229,139,8.17,Influencer,Jungle Navigations
+197,4,0,0,7,217,3,1,0.5,Influencer,Jungle Navigations
+198,9,0,1,5,2170,37,29,4.48,Influencer,Jungle Navigations
+199,7,0,0,10,1827,6,3,0.92,Influencer,Jungle Navigations
+200,11,0,1,8,133,2,1,0.38,Influencer,Jungle Navigations
+201,2,0,1,7,4060,347,251,43.94,Influencer,Jungle Navigations
+202,7,0,0,9,532,62,50,21.42,Influencer,Jungle Navigations
+203,10,0,0,2,287,1,0,0.12,Affiliate,Jungle Navigations
+204,8,0,1,3,210,18,16,2.25,Affiliate,Jungle Navigations
+205,4,1,1,5,2527,1,0,0.01,Affiliate,Jungle Navigations
+206,2,0,1,7,1057,8,4,1.14,Affiliate,Jungle Navigations
+207,11,0,1,3,11585,187,139,55.2,Affiliate,Jungle Navigations
+208,2,0,0,4,84,8,2,0.98,SEO/Organic,Jungle Navigations
+209,11,0,0,4,112,1,0,0.12,SEO/Organic,Jungle Navigations
+210,7,0,1,1,924,7,6,3.5,SEO/Organic,Jungle Navigations
+211,6,0,1,9,1008,61,13,27.11,SEO/Organic,Jungle Navigations
+212,4,0,1,9,1057,37,19,15.7,SEO/Organic,Jungle Navigations
+213,3,0,0,9,105,6,2,3.6,SEO/Organic,Jungle Navigations
+214,10,0,0,9,574,1,0,0.18,SEO/Organic,Jungle Navigations
+215,6,0,1,8,77,3,0,1.0,Social Media,Jungle Navigations
+216,11,0,0,1,14,1,0,0.12,Social Media,Jungle Navigations
+217,1,0,0,5,5040,239,86,125.14,Social Media,Jungle Navigations
+218,12,1,1,10,16835,1225,354,27.02,Social Media,Jungle Navigations
+219,8,1,1,5,15554,43,6,1.19,Social Media,Jungle Navigations
+220,6,0,1,7,33,10,3,1.11,Direct,Jungle Navigations
+221,2,1,1,4,10423,23,8,2.3,Direct,Jungle Navigations
+222,2,0,0,3,378,1,0,0.12,Direct,Jungle Navigations
+223,3,0,0,4,721,20,15,5.56,Direct,Jungle Navigations
+224,5,0,1,7,490,6,4,1.2,Influencer,Nero Enterprises
+225,3,1,1,2,7812,117,18,6.88,Influencer,Nero Enterprises
+226,3,1,1,3,16835,1,0,0.03,Influencer,Nero Enterprises
+227,9,0,1,9,7,2,1,0.24,Influencer,Nero Enterprises
+228,3,0,1,10,42,7,6,3.5,Influencer,Nero Enterprises
+229,13,0,1,1,98,14,10,4.67,Influencer,Nero Enterprises
+230,9,0,0,10,91,18,5,5.63,Influencer,Nero Enterprises
+231,7,0,0,2,136213,11,2,0.51,Influencer,Nero Enterprises
+232,4,0,1,5,28,2,0,0.24,Influencer,Nero Enterprises
+233,4,0,1,5,28,5,2,2.5,Influencer,Nero Enterprises
+234,9,0,1,1,497,1,0,0.17,Affiliate,Nero Enterprises
+235,11,1,1,5,315,2,0,0.02,Affiliate,Nero Enterprises
+236,13,0,1,5,133,12,0,3.27,Affiliate,Nero Enterprises
+237,8,1,1,1,1330,492,457,6.76,Affiliate,Nero Enterprises
+238,2,0,1,2,133,19,8,7.82,Affiliate,Nero Enterprises
+239,1,1,1,4,2464,303,265,10.81,Affiliate,Nero Enterprises
+240,1,0,1,1,175,16,14,2.29,Affiliate,Nero Enterprises
+241,5,0,1,7,11585,843,66,315.14,SEO/Organic,Nero Enterprises
+242,5,0,1,4,343,12,11,4.36,SEO/Organic,Nero Enterprises
+243,12,0,1,10,322,31,2,4.59,SEO/Organic,Nero Enterprises
+244,12,0,1,4,77,11,1,8.8,SEO/Organic,Nero Enterprises
+245,6,0,0,7,168,15,13,5.77,SEO/Organic,Nero Enterprises
+246,10,0,1,4,161,4,1,0.23,SEO/Organic,Nero Enterprises
+247,4,0,1,2,42,1,0,0.12,SEO/Organic,Nero Enterprises
+248,8,1,1,1,315,5,3,0.04,Social Media,Nero Enterprises
+249,9,0,1,2,343,4,0,0.29,Social Media,Nero Enterprises
+250,3,1,1,6,2464,23,10,2.3,Social Media,Nero Enterprises
+251,1,0,0,10,6160,24,17,6.86,Social Media,Nero Enterprises
+252,11,0,1,1,28,25,21,1.14,Social Media,Nero Enterprises
+253,3,0,1,5,175,51,50,8.11,Direct,Nero Enterprises
+254,3,0,1,1,924,5,1,2.5,Direct,Nero Enterprises
+255,11,0,1,8,1008,5,2,0.38,Direct,Nero Enterprises
+256,9,1,1,8,30863,316,24,22.57,Direct,Nero Enterprises
+257,6,0,1,9,644,152,27,18.57,Direct,Nero Enterprises
+258,7,0,1,7,1505,60,39,15.85,Influencer,Answer Productions
+259,11,1,1,4,1965,5,2,0.05,Influencer,Answer Productions
+260,2,0,1,10,133,21,16,6.63,Influencer,Answer Productions
+261,12,1,1,6,294,7,5,1.17,Influencer,Answer Productions
+262,13,0,1,10,133,7,0,1.17,Affiliate,Answer Productions
+263,10,1,0,4,182,26,24,2.26,Affiliate,Answer Productions
+264,8,0,1,8,3381,16,10,11.43,Affiliate,Answer Productions
+265,8,1,1,7,1965,226,48,2.09,Affiliate,Answer Productions
+266,6,1,1,8,830,769,234,117.1,Affiliate,Answer Productions
+267,4,0,0,1,133,1,0,0.12,Affiliate,Answer Productions
+268,7,0,1,5,165361,169,143,102.53,Affiliate,Answer Productions
+269,10,0,1,4,210,2,0,0.24,Affiliate,Answer Productions
+270,8,0,1,7,42,3,1,1.0,Affiliate,Answer Productions
+271,11,0,1,9,343,1,0,0.07,Affiliate,Answer Productions
+272,6,0,0,9,98,11,2,2.2,SEO/Organic,Answer Productions
+273,10,0,1,2,238,1,0,0.17,SEO/Organic,Answer Productions
+274,10,0,1,6,686,10,3,1.11,SEO/Organic,Answer Productions
+275,5,0,1,10,322,1,0,0.13,SEO/Organic,Answer Productions
+276,4,0,0,9,245,14,2,8.17,SEO/Organic,Answer Productions
+277,3,1,1,9,10423,1,0,0.01,SEO/Organic,Answer Productions
+278,7,0,0,7,420,89,71,10.87,SEO/Organic,Answer Productions
+279,3,0,1,8,274,1,0,0.12,SEO/Organic,Answer Productions
+280,2,0,1,10,56,9,6,5.63,Social Media,Answer Productions
+281,6,0,1,9,322,63,58,18.0,Social Media,Answer Productions
+282,8,0,1,2,77,3,2,0.29,Social Media,Answer Productions
+283,2,1,1,9,54012,154,116,23.29,Social Media,Answer Productions
+284,13,0,1,2,7,1,0,0.12,Direct,Answer Productions
+285,13,0,1,10,21,6,0,1.2,Direct,Answer Productions
+286,10,0,1,1,28,14,6,7.0,Direct,Answer Productions
+287,8,0,0,9,56,1,0,0.12,Influencer,Flukords
+288,6,0,0,5,5040,271,229,144.53,Influencer,Flukords
+289,11,0,1,5,77,6,2,2.4,Influencer,Flukords
+290,2,1,0,8,182,2,1,0.07,Influencer,Flukords
+291,13,1,1,8,679,10,9,0.2,Influencer,Flukords
+292,2,1,0,4,182,37,23,6.73,Influencer,Flukords
+293,6,1,1,9,54012,4952,1928,136.74,Influencer,Flukords
+294,2,0,1,1,49,6,3,0.73,Influencer,Flukords
+295,13,1,1,6,91,3,2,0.37,Influencer,Flukords
+296,7,0,1,10,63,1,0,0.12,Influencer,Flukords
+297,12,0,0,8,511,20,4,3.33,Influencer,Flukords
+298,13,0,0,2,4466,200,165,64.04,Influencer,Flukords
+299,6,0,1,3,336,24,3,6.86,Influencer,Flukords
+300,5,0,1,10,133,2,0,0.38,Influencer,Flukords
+301,3,0,0,10,574,59,52,21.56,Influencer,Flukords
+302,11,0,1,4,238,50,8,21.59,Affiliate,Flukords
+303,13,0,1,3,441,18,0,1.13,Affiliate,Flukords
+304,7,0,0,3,5040,167,128,64.32,Affiliate,Flukords
+305,3,1,1,2,1176,9,4,0.09,Affiliate,Flukords
+306,3,1,1,5,16835,153,11,10.13,Affiliate,Flukords
+307,13,0,1,1,25830,5,1,0.72,SEO/Organic,Flukords
+308,13,1,1,8,15554,2803,1790,46.17,SEO/Organic,Flukords
+309,3,0,1,8,28,5,3,1.25,SEO/Organic,Flukords
+310,2,0,1,5,50,11,4,5.5,SEO/Organic,Flukords
+311,5,0,0,7,441,2,0,1.0,Social Media,Flukords
+312,3,0,0,8,301,17,12,7.93,Social Media,Flukords
+313,10,0,0,2,574,59,16,21.56,Social Media,Flukords
+314,5,1,1,7,427,2,1,0.24,Social Media,Flukords
+315,8,0,1,4,25830,333,110,96.75,Social Media,Flukords
+316,11,0,1,8,35,1,0,0.12,Social Media,Flukords
+317,3,1,1,2,1176,9,4,0.09,Social Media,Flukords
+318,1,1,1,4,784,226,150,1.87,Social Media,Flukords
+319,10,0,1,5,441,15,0,1.15,Social Media,Flukords
+320,1,1,1,7,30863,6,2,0.03,Social Media,Flukords
+321,8,0,1,4,165361,106,49,53.0,Social Media,Flukords
+322,4,0,0,5,973,7,2,1.13,Social Media,Flukords
+323,10,0,1,9,175,31,1,9.19,Social Media,Flukords
+324,5,1,1,3,469,2,1,0.01,Social Media,Flukords
+325,11,1,0,7,182,5,1,0.18,Social Media,Flukords
+326,3,1,1,9,455,9,6,2.25,Social Media,Flukords
+327,2,0,0,10,224,1,0,0.2,Direct,Flukords
+328,10,1,1,9,21028,20,5,11.76,Direct,Flukords
+329,2,0,1,4,875,41,10,7.97,Direct,Flukords
+330,7,0,1,5,161,24,12,4.57,Direct,Flukords
+331,2,0,0,1,6160,211,123,107.19,Direct,Flukords
+332,8,0,1,10,308,38,33,10.06,Direct,Flukords
+333,6,0,0,9,7665,28,1,4.48,Direct,Flukords
+334,8,0,1,4,336,95,47,18.1,Direct,Flukords
+335,12,0,1,2,25830,80,21,30.42,Influencer,Petalimited
+336,1,1,1,8,196,1,0,0.12,Influencer,Petalimited
+337,9,0,1,9,3472,154,78,70.82,Influencer,Petalimited
+338,3,0,1,2,56,5,4,1.25,Influencer,Petalimited
+339,11,0,0,9,70,3,2,1.0,Influencer,Petalimited
+340,4,1,1,4,16835,153,150,10.13,Influencer,Petalimited
+341,2,0,0,4,189,7,4,3.5,Influencer,Petalimited
+342,8,0,0,9,49,1,0,0.2,Influencer,Petalimited
+343,10,0,0,9,30961,8,2,1.96,Affiliate,Petalimited
+344,11,0,1,4,175,1,0,0.08,Affiliate,Petalimited
+345,9,0,0,5,98,6,4,1.2,Affiliate,Petalimited
+346,12,0,1,7,56,5,1,1.25,Affiliate,Petalimited
+347,2,0,1,9,4060,2,0,0.17,Affiliate,Petalimited
+348,11,0,1,1,42,8,6,3.43,Affiliate,Petalimited
+349,3,0,1,5,3381,17,7,7.93,SEO/Organic,Petalimited
+350,8,0,0,7,136213,162,49,42.75,Social Media,Petalimited
+351,13,1,1,4,30863,389,87,5.64,Social Media,Petalimited
+352,8,0,0,10,30961,38,26,7.82,Social Media,Petalimited
+353,4,0,1,8,175,61,38,10.17,Social Media,Petalimited
+354,3,0,1,10,686,14,10,2.33,Social Media,Petalimited
+355,8,0,0,4,98,1,0,0.12,Social Media,Petalimited
+356,12,0,1,9,48055,15,4,1.15,Social Media,Petalimited
+357,9,0,1,5,4060,116,47,12.39,Social Media,Petalimited
+358,11,0,1,10,7,5,0,0.03,Social Media,Petalimited
+359,10,0,1,8,1057,19,11,4.47,Direct,Petalimited
+360,1,0,0,2,147,5,3,2.5,Direct,Petalimited
+361,3,0,1,1,336,65,4,17.93,Direct,Petalimited
+362,1,1,1,8,196,1,0,0.12,Direct,Petalimited
+363,2,0,1,1,910,21,20,5.83,Direct,Petalimited
+364,6,0,1,3,175,55,7,13.47,Direct,Petalimited
+365,9,1,1,10,784,6,0,0.05,Direct,Petalimited
+366,11,1,1,6,54012,159,14,106.0,Direct,Petalimited
+367,3,0,1,5,105,11,0,6.6,Direct,Petalimited
+368,3,0,0,8,14,2,1,1.0,Direct,Petalimited
+369,7,0,1,8,238,3,0,1.0,Influencer,Canics
+370,6,1,1,10,469,1,0,0.12,Influencer,Canics
+371,5,0,1,7,56,7,4,2.33,Influencer,Canics
+372,1,0,0,2,70,10,3,1.11,Influencer,Canics
+373,10,0,1,9,11585,1098,214,283.79,Influencer,Canics
+374,6,1,1,3,308,2,1,0.05,Influencer,Canics
+375,10,0,1,4,56,5,0,0.47,Affiliate,Canics
+376,12,0,1,7,910,7,0,1.92,Affiliate,Canics
+377,5,0,0,5,4466,459,55,156.38,Affiliate,Canics
+378,3,0,0,6,189,1,0,0.12,Affiliate,Canics
+379,11,0,1,2,33,5,2,0.21,Affiliate,Canics
+380,11,0,1,10,28,3,0,1.0,Affiliate,Canics
+381,8,0,1,2,63,7,2,1.17,Affiliate,Canics
+382,6,0,1,6,322,5,1,1.25,Affiliate,Canics
+383,1,1,1,6,427,2,1,0.24,Affiliate,Canics
+384,1,0,0,4,721,1,0,0.34,Affiliate,Canics
+385,7,0,1,1,3472,1,0,0.12,SEO/Organic,Canics
+386,3,0,0,5,70,1,0,0.28,SEO/Organic,Canics
+387,9,0,1,8,14,2,1,0.24,SEO/Organic,Canics
+388,8,0,1,8,630,26,11,7.91,Social Media,Canics
+389,8,0,0,1,1827,9,2,1.13,Social Media,Canics
+390,9,0,1,5,343,8,3,1.14,Social Media,Canics
+391,6,0,1,8,28,7,3,0.04,Social Media,Canics
+392,3,0,0,2,1806,1,0,0.14,Social Media,Canics
+393,5,0,1,8,161,10,4,3.33,Social Media,Canics
+394,12,0,0,9,518,15,12,4.62,Social Media,Canics
+395,9,0,1,7,25830,1,0,0.14,Social Media,Canics
+396,13,0,1,1,175,27,11,2.23,Social Media,Canics
+397,8,0,0,5,7665,6,3,0.73,Direct,Canics
+398,2,0,0,2,1281,92,90,21.32,Direct,Canics
+399,2,0,0,10,56,2,0,0.24,Direct,Canics
+400,12,0,1,1,441,57,46,12.54,Direct,Canics
+401,12,0,0,3,861,3,0,0.37,Direct,Canics
+402,10,0,1,2,686,52,0,10.17,Direct,Canics
+403,3,0,0,2,14,2,1,1.0,Direct,Canics
+404,9,0,0,3,525,2,0,0.24,Direct,Canics
+405,9,1,1,5,30863,3099,2722,104.73,Direct,Canics
+406,1,0,1,7,210,2,0,0.13,Direct,Canics
+407,5,0,1,9,105,9,8,1.13,Direct,Canics
+408,8,0,1,5,50,24,23,4.57,Influencer,Rhinotainment
+409,2,1,1,4,2464,2098,1711,104.39,Influencer,Rhinotainment
+410,12,0,1,2,3472,124,27,34.95,Influencer,Rhinotainment
+411,7,0,1,7,1827,8,1,1.14,Influencer,Rhinotainment
+412,6,0,0,3,49,1,0,0.2,Affiliate,Rhinotainment
+413,10,0,1,2,175,1,0,0.08,Affiliate,Rhinotainment
+414,7,0,1,2,133,11,4,3.3,Affiliate,Rhinotainment
+415,1,0,0,3,105,7,6,2.33,Affiliate,Rhinotainment
+416,1,0,0,3,105,1,0,0.12,Affiliate,Rhinotainment
+417,2,0,0,3,560,1,0,0.12,Affiliate,Rhinotainment
+418,11,0,0,4,34762,2,1,0.24,Affiliate,Rhinotainment
+419,1,0,1,2,175,51,9,14.73,SEO/Organic,Rhinotainment
+420,6,0,0,2,30961,93,59,46.5,SEO/Organic,Rhinotainment
+421,4,0,1,9,1183,7,1,0.25,SEO/Organic,Rhinotainment
+422,1,0,0,9,294,5,3,2.5,Social Media,Rhinotainment
+423,1,0,0,2,364,16,7,2.29,Social Media,Rhinotainment
+424,11,1,1,10,2527,2,0,0.02,Social Media,Rhinotainment
+425,4,1,1,10,112,1,0,0.01,Direct,Rhinotainment
+426,10,0,1,1,49,3,2,0.37,Direct,Rhinotainment
+427,10,0,1,6,98,7,3,3.5,Direct,Rhinotainment
+428,12,0,1,5,322,11,6,3.3,Direct,Rhinotainment
+429,11,0,0,6,7665,9,4,1.28,Direct,Rhinotainment
+430,11,1,1,8,15624,9935,4348,284.95,Direct,Rhinotainment
+431,10,0,1,1,322,23,0,3.45,Influencer,Void Lighting
+432,2,0,1,1,33,5,2,0.21,Influencer,Void Lighting
+433,5,0,1,4,889,144,66,64.13,Influencer,Void Lighting
+434,9,1,1,7,784,10,7,0.08,Influencer,Void Lighting
+435,11,0,1,10,165361,110,5,42.65,Influencer,Void Lighting
+436,2,0,0,3,30961,423,395,121.5,Influencer,Void Lighting
+437,1,1,1,1,343,1,0,0.07,Influencer,Void Lighting
+438,8,0,1,7,322,65,56,17.93,Influencer,Void Lighting
+439,2,1,1,1,469,386,201,6.75,Affiliate,Void Lighting
+440,2,0,0,9,511,41,36,15.94,Affiliate,Void Lighting
+441,13,0,1,10,68656,3,0,0.27,Affiliate,Void Lighting
+442,11,1,1,10,735,150,100,18.32,Affiliate,Void Lighting
+443,6,0,0,1,12565,1,0,0.12,SEO/Organic,Void Lighting
+444,2,1,1,1,1169,47,10,8.95,SEO/Organic,Void Lighting
+445,10,0,1,3,133,10,7,6.67,Social Media,Void Lighting
+446,10,1,1,6,235,215,40,5.63,Social Media,Void Lighting
+447,10,0,0,2,1526,1,0,0.09,Social Media,Void Lighting
+448,11,0,0,9,1687,98,39,16.9,Social Media,Void Lighting
+449,9,1,0,10,609,7,4,2.33,Social Media,Void Lighting
+450,10,0,1,10,322,59,30,14.75,Social Media,Void Lighting
+451,9,0,1,4,77,6,0,3.6,Social Media,Void Lighting
+452,13,0,0,8,140,2,0,0.24,Direct,Void Lighting
+453,12,0,1,3,21,9,1,0.05,Direct,Void Lighting
+454,8,0,1,8,308,13,10,2.36,Direct,Void Lighting
+455,3,0,1,8,441,35,17,5.65,Direct,Void Lighting
+456,13,0,1,6,49,6,5,1.2,Direct,Void Lighting
+457,9,1,1,1,16835,733,526,13.0,Direct,Void Lighting
+458,2,0,0,7,35,2,0,0.24,Direct,Void Lighting
+459,1,0,1,10,1183,1,0,0.12,Direct,Void Lighting
+460,9,1,1,2,1169,3,2,1.5,Direct,Void Lighting
+461,10,1,1,5,2499,68,30,3.4,Direct,Void Lighting
+462,10,0,1,10,1589,41,12,7.97,Influencer,Blueshack
+463,5,0,1,8,441,86,41,31.68,Influencer,Blueshack
+464,3,0,1,1,728,29,4,2.23,Influencer,Blueshack
+465,1,0,0,5,721,2,0,0.34,Influencer,Blueshack
+466,1,0,1,3,42,1,0,0.1,Influencer,Blueshack
+467,5,0,1,4,77,1,0,0.08,Influencer,Blueshack
+468,8,0,0,6,6160,222,123,117.2,Influencer,Blueshack
+469,5,0,0,9,1911,20,18,13.33,Affiliate,Blueshack
+470,5,1,1,5,952,19,9,3.35,Affiliate,Blueshack
+471,4,1,1,3,683,596,348,38.52,Affiliate,Blueshack
+472,8,1,0,8,105,2,0,1.0,Affiliate,Blueshack
+473,13,0,1,9,11,8,1,1.14,Affiliate,Blueshack
+474,8,0,1,4,1351,1,0,0.12,Affiliate,Blueshack
+475,1,0,0,10,1274,9,4,2.25,SEO/Organic,Blueshack
+476,12,0,0,2,7665,163,23,29.23,SEO/Organic,Blueshack
+477,9,0,1,8,175,61,27,12.43,SEO/Organic,Blueshack
+478,7,0,0,4,6160,112,89,32.81,SEO/Organic,Blueshack
+479,13,0,1,10,77,6,3,1.2,SEO/Organic,Blueshack
+480,9,0,0,6,19747,1,0,0.12,SEO/Organic,Blueshack
+481,6,0,1,6,189,1,0,0.12,SEO/Organic,Blueshack
+482,11,0,1,4,336,57,37,16.76,Social Media,Blueshack
+483,8,0,0,1,574,1,0,0.12,Social Media,Blueshack
+484,2,0,0,4,721,20,11,5.56,Direct,Blueshack
+485,11,0,0,9,20587,7,5,1.17,Direct,Blueshack
+486,2,0,0,10,6160,207,50,93.38,Direct,Blueshack
+487,3,0,0,3,14,8,0,1.14,Direct,Blueshack
+488,13,0,0,1,28,19,0,11.18,Direct,Blueshack
+489,9,0,0,4,595,1,0,0.12,Direct,Blueshack
+490,10,0,1,6,21,2,0,1.0,Direct,Blueshack
+491,1,0,1,5,1183,1,0,0.04,Direct,Blueshack
+492,9,0,1,8,28,5,4,0.03,Direct,Blueshack
+493,5,1,1,10,91,4,1,0.49,Influencer,Pearlrover
+494,8,0,0,10,3045,34,0,3.4,Influencer,Pearlrover
+495,9,0,0,2,6993,1,0,0.12,Influencer,Pearlrover
+496,13,1,1,9,10423,1,0,0.12,Influencer,Pearlrover
+497,9,0,0,4,532,3,1,2.0,Influencer,Pearlrover
+498,10,1,1,7,2527,16,6,0.16,Influencer,Pearlrover
+499,9,0,1,10,322,24,4,8.0,Affiliate,Pearlrover
+500,3,0,0,3,70,17,0,6.8,Affiliate,Pearlrover
+501,3,0,1,2,441,60,42,19.25,Affiliate,Pearlrover
+502,13,0,1,7,1589,6,5,0.38,Affiliate,Pearlrover
+503,12,1,1,9,679,2,0,0.04,Affiliate,Pearlrover
+504,10,1,1,9,119,1,0,0.12,Affiliate,Pearlrover
+505,1,0,0,10,1687,2,0,0.44,Affiliate,Pearlrover
+506,5,0,0,9,136213,185,0,45.12,Affiliate,Pearlrover
+507,2,0,1,10,343,6,3,0.44,Affiliate,Pearlrover
+508,7,0,1,2,29,6,5,1.2,Affiliate,Pearlrover
+509,7,0,0,6,1435,1,0,0.12,SEO/Organic,Pearlrover
+510,3,0,1,7,910,25,19,3.41,SEO/Organic,Pearlrover
+511,1,0,0,6,1582,2,0,0.06,SEO/Organic,Pearlrover
+512,10,0,0,10,7,1,0,0.12,SEO/Organic,Pearlrover
+513,10,0,1,6,133,2,1,1.0,Social Media,Pearlrover
+514,6,0,0,1,1806,35,28,5.65,Social Media,Pearlrover
+515,8,0,1,10,4060,93,38,11.34,Social Media,Pearlrover
+516,3,0,1,8,7,5,3,0.03,Social Media,Pearlrover
+517,2,0,1,9,1288,1,0,0.12,Social Media,Pearlrover
+518,5,1,1,3,196,5,4,0.04,Social Media,Pearlrover
+519,9,0,0,9,98,21,15,7.74,Social Media,Pearlrover
+520,5,0,1,3,7,1,0,0.12,Social Media,Pearlrover
+521,11,0,0,6,70,1,0,0.1,Social Media,Pearlrover
+522,11,0,0,4,3045,34,26,3.4,Social Media,Pearlrover
+523,9,0,1,5,245,3,1,0.17,Social Media,Pearlrover
+524,12,1,1,2,1344,41,20,2.28,Social Media,Pearlrover
+525,11,0,0,6,63,1,0,0.12,Social Media,Pearlrover
+526,5,0,1,6,133,5,1,0.94,Direct,Pearlrover
+527,5,0,0,10,28812,1,0,0.12,Direct,Pearlrover
+528,13,0,0,10,476,1,0,0.12,Direct,Pearlrover
+529,9,0,1,1,308,26,1,4.52,Direct,Pearlrover
+530,1,0,1,8,29,3,1,1.0,Direct,Pearlrover
+531,5,0,1,8,322,55,20,12.35,Direct,Pearlrover
+532,1,0,0,6,63,9,7,4.5,Direct,Pearlrover
+533,8,0,1,6,56,3,1,0.28,Direct,Pearlrover
+534,6,0,1,8,441,24,19,4.57,Influencer,Delugation
+535,2,0,0,6,70,17,9,2.27,Influencer,Delugation
+536,3,0,0,2,84,2,0,1.0,Influencer,Delugation
+537,7,0,0,3,7,3,0,0.37,Influencer,Delugation
+538,13,0,0,7,84,1,0,0.12,Influencer,Delugation
+539,11,0,1,9,1057,25,8,3.41,Influencer,Delugation
+540,7,0,0,4,1253,18,1,6.75,Influencer,Delugation
+541,5,0,1,8,98,2,1,0.33,Influencer,Delugation
+542,8,0,1,5,42,6,3,1.2,Influencer,Delugation
+543,2,1,1,2,15554,152,19,1.82,Affiliate,Delugation
+544,3,0,0,6,30961,543,490,151.27,Affiliate,Delugation
+545,3,1,1,10,54012,452,439,68.35,Affiliate,Delugation
+546,7,0,1,9,77,3,2,1.0,SEO/Organic,Delugation
+547,5,1,1,3,54012,451,236,68.2,SEO/Organic,Delugation
+548,12,0,0,6,1582,16,3,2.29,Social Media,Delugation
+549,11,0,1,7,238,11,0,4.4,Social Media,Delugation
+550,3,0,0,7,420,1,0,0.12,Social Media,Delugation
+551,4,0,1,9,14,1,0,0.12,Social Media,Delugation
+552,6,1,1,3,830,27,8,9.0,Social Media,Delugation
+553,10,0,0,1,49,2,0,0.4,Direct,Delugation
+554,8,0,1,7,77,2,1,0.19,Direct,Delugation
+555,12,0,0,5,490,11,4,2.2,Direct,Delugation
+556,1,0,1,9,147,5,0,2.5,Direct,Delugation
+557,6,0,1,3,210,7,6,0.86,Direct,Delugation
+558,7,0,1,7,63,1,0,0.12,Direct,Delugation
+559,11,0,1,1,42,2,1,0.21,Direct,Delugation
+560,12,1,1,6,168,1,0,0.12,Influencer,Crypticorps
+561,10,0,0,10,294,14,1,9.33,Influencer,Crypticorps
+562,11,0,0,10,1827,39,0,29.82,Influencer,Crypticorps
+563,13,0,1,5,175,66,42,12.52,Influencer,Crypticorps
+564,2,0,0,6,224,37,19,17.94,Affiliate,Crypticorps
+565,8,0,1,3,56,3,1,0.28,Affiliate,Crypticorps
+566,10,0,0,9,350,8,6,2.29,Affiliate,Crypticorps
+567,9,0,1,1,63,3,0,1.0,Affiliate,Crypticorps
+568,6,0,0,4,511,51,6,13.6,Affiliate,Crypticorps
+569,10,0,1,2,49,1,0,0.12,Affiliate,Crypticorps
+570,4,0,1,6,4060,160,116,18.03,Affiliate,Crypticorps
+571,11,1,1,3,343,42,4,25.67,SEO/Organic,Crypticorps
+572,3,0,0,5,98,9,2,1.13,SEO/Organic,Crypticorps
+573,5,0,1,1,336,84,11,27.24,SEO/Organic,Crypticorps
+574,2,0,1,6,343,3,1,0.22,Social Media,Crypticorps
+575,1,0,1,5,686,38,6,6.71,Social Media,Crypticorps
+576,7,0,1,4,98,18,15,6.75,Social Media,Crypticorps
+577,10,0,0,8,1827,2,1,0.31,Social Media,Crypticorps
+578,3,1,1,8,856,429,101,10.16,Direct,Crypticorps
+579,11,0,1,3,1008,21,20,4.42,Direct,Crypticorps
+580,3,0,0,4,973,27,22,11.74,Direct,Crypticorps
+581,13,0,1,6,56,2,0,0.19,Direct,Crypticorps
+582,8,0,0,5,868,9,8,5.63,Direct,Crypticorps
+583,12,0,1,5,1554,375,231,2.28,Direct,Crypticorps
+584,8,0,1,5,1827,2,1,0.14,Direct,Crypticorps
+585,10,1,0,8,133,18,8,6.75,Influencer,Priductions
+586,2,0,0,7,14,1,0,0.17,Influencer,Priductions
+587,1,0,0,10,14,8,7,1.14,Influencer,Priductions
+588,8,0,0,9,5040,149,14,63.21,Affiliate,Priductions
+589,11,0,1,3,35,1,0,0.12,Affiliate,Priductions
+590,13,1,1,4,822,719,460,58.69,Affiliate,Priductions
+591,10,0,0,9,28,1,0,0.12,Affiliate,Priductions
+592,11,0,1,10,343,2,1,0.15,Affiliate,Priductions
+593,6,0,1,3,50,8,7,1.14,Affiliate,Priductions
+594,4,0,1,3,910,49,21,25.07,SEO/Organic,Priductions
+595,3,0,1,1,161,24,12,8.0,SEO/Organic,Priductions
+596,6,0,1,8,49,3,2,1.0,SEO/Organic,Priductions
+597,9,0,1,1,49,7,3,2.33,SEO/Organic,Priductions
+598,9,0,1,5,161,1,0,0.06,SEO/Organic,Priductions
+599,12,0,0,1,63,1,0,0.12,SEO/Organic,Priductions
+600,3,0,1,8,98,1,0,0.1,SEO/Organic,Priductions
+601,5,1,0,5,182,1,0,0.04,SEO/Organic,Priductions
+602,1,0,1,10,11585,1176,393,294.0,SEO/Organic,Priductions
+603,4,0,1,6,35,1,0,0.12,SEO/Organic,Priductions
+604,4,0,0,3,7,2,0,0.24,Social Media,Priductions
+605,8,0,0,8,56,11,10,4.4,Social Media,Priductions
+606,8,1,1,7,315,2,1,0.02,Social Media,Priductions
+607,9,1,1,8,2527,785,137,47.3,Social Media,Priductions
+608,5,0,1,6,28,2,0,0.01,Social Media,Priductions
+609,5,1,1,1,2527,18,7,0.18,Social Media,Priductions
+610,2,0,1,10,308,20,13,4.71,Social Media,Priductions
+611,1,0,1,10,1554,2,1,0.01,Social Media,Priductions
+612,3,0,0,2,1806,49,15,11.4,Social Media,Priductions
+613,3,0,1,10,322,70,50,16.94,Direct,Priductions
+614,11,0,0,10,14,8,4,1.14,Direct,Priductions
+615,11,0,1,3,49,2,1,1.0,Direct,Priductions
+616,8,1,1,5,602,2,0,0.01,Direct,Priductions
+617,12,0,0,7,140,7,2,3.5,Direct,Priductions
+618,12,0,0,9,5040,121,120,44.1,Direct,Priductions
+619,7,0,0,6,175,10,1,2.22,Influencer,Melon Arts
+620,7,0,1,8,322,67,3,19.31,Influencer,Melon Arts
+621,8,0,0,7,98,22,21,8.11,Influencer,Melon Arts
+622,5,0,1,10,42,1,0,0.12,Influencer,Melon Arts
+623,6,0,1,6,23,20,2,1.11,Influencer,Melon Arts
+624,10,1,1,5,1245,1082,946,56.3,Influencer,Melon Arts
+625,11,0,1,4,50,1,0,0.08,Influencer,Melon Arts
+626,8,1,1,6,1176,731,681,22.53,Influencer,Melon Arts
+627,11,0,0,3,532,9,1,1.13,Influencer,Melon Arts
+628,8,0,1,10,56,7,5,1.17,Affiliate,Melon Arts
+629,4,0,0,4,70,2,0,0.2,Affiliate,Melon Arts
+630,5,0,0,7,1197,1,0,0.12,Affiliate,Melon Arts
+631,2,0,0,7,490,6,2,1.2,Affiliate,Melon Arts
+632,11,1,1,2,15554,620,54,7.44,Affiliate,Melon Arts
+633,9,0,1,7,33,6,1,1.2,SEO/Organic,Melon Arts
+634,6,0,1,5,427,5,1,0.61,SEO/Organic,Melon Arts
+635,9,0,1,7,728,34,30,2.27,SEO/Organic,Melon Arts
+636,1,0,1,3,1666,2,0,0.24,SEO/Organic,Melon Arts
+637,1,0,1,8,25830,1,0,0.14,Social Media,Melon Arts
+638,8,0,1,6,343,1,0,0.18,Social Media,Melon Arts
+639,8,0,0,7,392,1,0,0.12,Social Media,Melon Arts
+640,8,0,1,10,889,105,78,41.77,Social Media,Melon Arts
+641,5,1,1,5,455,154,116,1.42,Direct,Melon Arts
+642,1,0,1,5,133,6,5,4.8,Direct,Melon Arts
+643,13,0,1,8,161,10,7,2.22,Direct,Melon Arts
+644,4,0,0,5,7,3,1,0.37,Direct,Melon Arts
+645,3,0,1,6,29,1,0,0.11,Direct,Melon Arts
+646,1,0,0,7,5040,202,123,116.23,Direct,Melon Arts
+647,12,0,0,9,1687,45,43,25.88,Influencer,Whizystems
+648,7,1,1,6,16835,1,0,0.03,Influencer,Whizystems
+649,1,1,0,5,21028,1,0,0.12,Influencer,Whizystems
+650,1,0,0,8,6160,2,0,0.65,Influencer,Whizystems
+651,1,1,1,1,987,2,0,0.02,Influencer,Whizystems
+652,12,1,1,10,1169,3,2,1.5,Influencer,Whizystems
+653,4,0,1,9,4060,139,14,14.69,Influencer,Whizystems
+654,12,0,1,4,287,48,15,12.28,Influencer,Whizystems
+655,6,1,1,9,10423,1,0,0.01,Affiliate,Whizystems
+656,4,1,1,3,10423,1,0,0.01,Affiliate,Whizystems
+657,8,0,1,4,133,10,3,4.44,SEO/Organic,Whizystems
+658,5,0,0,1,301,103,35,45.27,SEO/Organic,Whizystems
+659,4,1,1,4,16835,225,141,3.99,Social Media,Whizystems
+660,1,0,1,8,497,10,8,3.33,Social Media,Whizystems
+661,4,0,1,3,889,6,5,2.4,Social Media,Whizystems
+662,11,0,1,8,147,1,0,0.12,Social Media,Whizystems
+663,1,0,1,10,4060,13,9,1.18,Social Media,Whizystems
+664,9,0,1,4,63,3,0,0.37,Social Media,Whizystems
+665,10,0,1,6,301,3,0,0.37,Social Media,Whizystems
+666,8,0,1,1,77,3,0,1.0,Direct,Whizystems
+667,7,1,1,3,2464,23,22,2.3,Direct,Whizystems
+668,13,0,1,1,7,1,0,0.04,Direct,Whizystems
+669,4,1,1,4,1245,1082,800,56.3,Direct,Whizystems
+670,4,0,1,3,77,7,6,1.17,Influencer,Owl Productions
+671,10,0,0,7,217,3,1,1.0,Influencer,Owl Productions
+672,3,0,0,10,1400,18,10,3.38,Influencer,Owl Productions
+673,12,0,0,5,77,3,0,1.0,Influencer,Owl Productions
+674,8,0,1,6,175,11,9,2.2,Influencer,Owl Productions
+675,2,0,1,3,910,64,60,16.84,Affiliate,Owl Productions
+676,1,1,1,8,455,51,6,3.4,Affiliate,Owl Productions
+677,4,0,0,9,1687,59,55,7.94,Affiliate,Owl Productions
+678,2,0,0,10,1274,7,3,1.43,Affiliate,Owl Productions
+679,2,0,1,8,77,3,2,1.0,Affiliate,Owl Productions
+680,2,0,1,4,33,4,1,0.34,Affiliate,Owl Productions
+681,11,0,1,6,224,19,0,8.94,SEO/Organic,Owl Productions
+682,7,0,0,8,70,5,1,0.49,SEO/Organic,Owl Productions
+683,9,1,1,10,10423,41,0,5.01,SEO/Organic,Owl Productions
+684,2,0,0,2,80,72,50,45.0,SEO/Organic,Owl Productions
+685,7,0,1,9,56,11,8,5.5,SEO/Organic,Owl Productions
+686,6,0,1,6,343,19,16,5.59,SEO/Organic,Owl Productions
+687,1,0,0,6,1274,52,18,14.7,SEO/Organic,Owl Productions
+688,13,0,1,6,42,2,0,0.36,SEO/Organic,Owl Productions
+689,2,1,1,6,2289,1047,298,33.77,Social Media,Owl Productions
+690,4,0,1,7,28,2,0,0.24,Social Media,Owl Productions
+691,4,0,0,6,721,2,0,1.0,Social Media,Owl Productions
+692,7,0,1,8,49,6,5,2.4,Direct,Owl Productions
+693,4,0,0,6,35,2,1,0.24,Direct,Owl Productions
+694,2,0,1,8,308,10,4,2.22,Direct,Owl Productions
+695,4,0,1,10,1008,3,1,1.0,Direct,Owl Productions
+696,8,1,1,1,315,2,1,0.02,Direct,Owl Productions
+697,6,1,1,2,10423,676,345,82.57,Direct,Owl Productions
+698,13,0,1,6,77,3,1,1.5,Influencer,Flowertales
+699,6,0,0,6,560,1,0,0.12,Influencer,Flowertales
+700,9,0,0,9,588,6,4,2.4,Influencer,Flowertales
+701,6,0,1,2,287,11,2,2.2,Influencer,Flowertales
+702,1,0,1,2,287,4,1,0.49,Influencer,Flowertales
+703,5,0,0,1,224,2,1,1.0,Influencer,Flowertales
+704,10,0,0,8,56,1,0,0.12,Influencer,Flowertales
+705,3,1,1,3,1330,153,8,0.53,Affiliate,Flowertales
+706,8,0,1,10,910,7,4,1.92,Affiliate,Flowertales
+707,2,1,1,7,16835,2869,1615,254.47,Affiliate,Flowertales
+708,10,0,0,8,161,1,0,0.25,Affiliate,Flowertales
+709,1,1,1,1,16835,375,274,8.27,Affiliate,Flowertales
+710,1,0,1,10,48055,29,23,3.35,Affiliate,Flowertales
+711,10,0,1,7,910,11,10,1.22,Affiliate,Flowertales
+712,8,0,1,5,11585,1321,1074,409.93,Affiliate,Flowertales
+713,12,0,0,4,574,2,1,0.37,SEO/Organic,Flowertales
+714,5,0,1,9,189,4,1,0.49,SEO/Organic,Flowertales
+715,8,0,1,1,42,6,1,1.2,SEO/Organic,Flowertales
+716,3,0,1,5,238,1,0,0.12,SEO/Organic,Flowertales
+717,8,1,1,1,1245,1177,887,84.47,Social Media,Flowertales
+718,8,0,1,2,50,1,0,0.08,Social Media,Flowertales
+719,8,0,0,7,4466,33,17,1.14,Social Media,Flowertales
+720,3,1,1,8,30863,1520,250,17.91,Social Media,Flowertales
+721,6,0,1,5,77,10,3,4.44,Social Media,Flowertales
+722,1,1,1,10,308,209,101,16.95,Social Media,Flowertales
+723,11,1,0,1,10423,19,2,2.32,Social Media,Flowertales
+724,5,0,0,10,574,4,0,0.73,Social Media,Flowertales
+725,1,0,1,4,68656,728,517,324.56,Social Media,Flowertales
+726,7,1,1,2,30863,2646,51,31.17,Social Media,Flowertales
+727,10,0,1,5,441,96,49,29.36,Social Media,Flowertales
+728,13,0,1,3,28,9,7,0.05,Direct,Flowertales
+729,9,0,0,3,6160,113,53,38.42,Direct,Flowertales
+730,9,0,1,4,175,17,5,2.43,Direct,Flowertales
+731,2,1,1,3,987,6,4,0.06,Direct,Flowertales
+732,1,0,1,9,7,5,1,0.03,Direct,Flowertales
+733,4,0,1,1,7,3,1,0.02,Influencer,Angelpoly
+734,12,0,1,3,11,7,2,0.04,Influencer,Angelpoly
+735,3,0,1,4,441,72,59,27.0,Influencer,Angelpoly
+736,11,0,1,6,175,15,2,1.15,Influencer,Angelpoly
+737,5,0,0,9,7,1,0,0.12,Affiliate,Angelpoly
+738,5,0,1,8,4060,116,14,12.39,Affiliate,Angelpoly
+739,6,0,1,4,42,1,0,0.12,Affiliate,Angelpoly
+740,2,0,1,4,21,17,0,2.27,Affiliate,Angelpoly
+741,1,0,1,7,77,11,10,4.4,SEO/Organic,Angelpoly
+742,12,0,0,8,35,8,1,5.71,SEO/Organic,Angelpoly
+743,5,0,0,3,133,2,1,1.0,SEO/Organic,Angelpoly
+744,10,1,1,5,2527,315,133,3.41,SEO/Organic,Angelpoly
+745,12,0,1,5,1505,1,0,0.05,Social Media,Angelpoly
+746,2,1,1,10,28,3,2,0.37,Social Media,Angelpoly
+747,4,0,0,8,301,103,38,43.01,Social Media,Angelpoly
+748,9,0,1,6,49,9,2,5.63,Social Media,Angelpoly
+749,11,0,0,8,476,1,0,0.12,Social Media,Angelpoly
+750,4,0,0,3,30961,63,31,10.13,Social Media,Angelpoly
+751,6,0,0,8,273,3,2,0.37,Direct,Angelpoly
+752,7,0,1,6,889,127,43,58.44,Direct,Angelpoly
+753,4,0,1,7,161,1,0,0.08,Influencer,Omegacoustics
+754,2,0,1,1,165361,95,44,36.19,Influencer,Omegacoustics
+755,2,1,1,3,168,2,0,0.24,Influencer,Omegacoustics
+756,5,1,1,8,1176,38,14,2.24,Influencer,Omegacoustics
+757,13,1,1,8,16835,2850,1562,269.12,Influencer,Omegacoustics
+758,1,0,0,10,280,1,0,0.12,Influencer,Omegacoustics
+759,8,0,1,8,3472,63,14,18.0,Affiliate,Omegacoustics
+760,11,0,0,2,511,45,9,15.75,Affiliate,Omegacoustics
+761,2,0,1,2,910,16,9,4.57,Affiliate,Omegacoustics
+762,1,0,0,7,5040,46,33,13.46,Affiliate,Omegacoustics
+763,10,0,1,10,147,1,0,0.14,SEO/Organic,Omegacoustics
+764,1,0,1,7,1183,85,60,15.87,SEO/Organic,Omegacoustics
+765,2,1,1,7,15554,41,3,1.14,SEO/Organic,Omegacoustics
+766,8,1,1,10,119,1,0,0.12,SEO/Organic,Omegacoustics
+767,9,0,1,6,175,76,44,12.48,SEO/Organic,Omegacoustics
+768,3,0,1,7,133,9,7,2.25,SEO/Organic,Omegacoustics
+769,11,0,1,8,1057,10,7,1.11,SEO/Organic,Omegacoustics
+770,13,0,1,4,70,3,1,1.0,SEO/Organic,Omegacoustics
+771,5,0,1,9,287,38,29,12.29,Social Media,Omegacoustics
+772,4,0,1,6,33,6,0,0.25,Social Media,Omegacoustics
+773,7,0,0,4,252,1,0,0.08,Social Media,Omegacoustics
+774,1,0,0,4,728,5,4,1.25,Social Media,Omegacoustics
+775,5,0,0,9,4466,561,297,199.39,Social Media,Omegacoustics
+776,4,0,1,6,630,6,5,2.4,Social Media,Omegacoustics
+777,12,0,1,1,29,3,1,0.32,Social Media,Omegacoustics
+778,11,0,1,7,98,1,0,0.09,Direct,Omegacoustics
+779,12,0,1,1,77,5,0,1.25,Direct,Omegacoustics
+780,10,1,1,4,420,359,351,14.77,Direct,Omegacoustics
+781,3,0,1,3,49,5,1,1.25,Direct,Omegacoustics
+782,3,1,1,10,2464,229,116,8.17,Direct,Omegacoustics
+783,7,0,1,5,336,57,13,16.76,Direct,Omegacoustics
+784,11,1,1,1,196,5,0,0.04,Direct,Omegacoustics
+785,8,1,1,7,30863,5,0,0.02,Direct,Omegacoustics
+786,10,0,0,6,70,10,3,1.11,Direct,Omegacoustics
+787,10,0,1,2,175,50,37,11.36,Direct,Omegacoustics
+788,11,1,1,2,1330,3,1,0.01,Direct,Omegacoustics
+789,12,0,1,10,98,11,10,3.3,Influencer,Lionessscape
+790,6,0,0,3,511,70,14,28.23,Influencer,Lionessscape
+791,11,0,1,3,441,86,19,31.68,Influencer,Lionessscape
+792,1,0,0,5,56,2,1,0.4,Influencer,Lionessscape
+793,1,0,1,8,42,6,0,1.2,Influencer,Lionessscape
+794,6,1,1,10,112,1,0,0.01,Influencer,Lionessscape
+795,10,0,1,9,161,10,5,1.11,Influencer,Lionessscape
+796,9,1,0,1,105,8,0,3.43,Affiliate,Lionessscape
+797,13,1,1,9,10423,1,0,0.12,Affiliate,Lionessscape
+798,5,0,0,8,721,3,0,1.0,Affiliate,Lionessscape
+799,9,0,1,6,49,9,0,5.63,Affiliate,Lionessscape
+800,1,0,1,10,77,7,1,3.5,Affiliate,Lionessscape
+801,8,0,1,1,98,6,4,1.2,Affiliate,Lionessscape
+802,3,0,1,6,161,7,5,1.17,Affiliate,Lionessscape
+803,6,1,1,6,10423,375,374,2.62,SEO/Organic,Lionessscape
+804,8,0,1,8,133,12,5,3.27,SEO/Organic,Lionessscape
+805,3,0,0,7,175,9,4,1.13,SEO/Organic,Lionessscape
+806,11,0,1,8,25830,1,0,0.12,SEO/Organic,Lionessscape
+807,8,1,1,3,16835,1225,1119,27.02,SEO/Organic,Lionessscape
+808,10,1,1,4,322,4,1,0.49,SEO/Organic,Lionessscape
+809,6,1,1,9,30863,2,1,0.04,SEO/Organic,Lionessscape
+810,1,0,1,5,133,1,0,0.19,SEO/Organic,Lionessscape
+811,7,0,1,1,14,11,0,4.4,SEO/Organic,Lionessscape
+812,4,0,1,2,14,2,0,0.24,Social Media,Lionessscape
+813,5,0,1,4,287,3,1,0.37,Social Media,Lionessscape
+814,11,0,0,7,721,43,41,10.18,Social Media,Lionessscape
+815,1,0,0,6,56,2,1,0.24,Social Media,Lionessscape
+816,1,1,1,4,10423,1771,1591,49.54,Social Media,Lionessscape
+817,11,1,1,9,455,1,0,0.11,Social Media,Lionessscape
+818,6,0,1,10,56,5,4,2.5,Social Media,Lionessscape
+819,6,0,0,4,5040,60,55,14.72,Direct,Lionessscape
+820,7,0,1,7,50,1,0,0.08,Direct,Lionessscape
+821,8,0,1,6,210,1,0,0.12,Influencer,Cloverprises
+822,9,1,1,2,119,1,0,0.12,Influencer,Cloverprises
+823,13,0,1,8,924,17,11,9.07,Influencer,Cloverprises
+824,12,0,1,1,308,5,2,1.25,Affiliate,Cloverprises
+825,7,0,0,5,35,2,1,1.0,Affiliate,Cloverprises
+826,9,0,0,6,70,1,0,0.12,Affiliate,Cloverprises
+827,5,0,1,6,308,69,27,28.28,Affiliate,Cloverprises
+828,13,0,0,7,77,1,0,0.12,Affiliate,Cloverprises
+829,13,0,1,2,1183,34,2,3.4,Affiliate,Cloverprises
+830,7,0,1,1,77,8,3,4.57,SEO/Organic,Cloverprises
+831,8,1,1,1,98,5,2,0.04,SEO/Organic,Cloverprises
+832,5,0,1,9,343,11,4,2.2,SEO/Organic,Cloverprises
+833,9,0,0,3,105,20,6,4.44,SEO/Organic,Cloverprises
+834,13,0,0,6,7665,301,298,58.62,SEO/Organic,Cloverprises
+835,10,0,0,7,392,5,3,0.61,SEO/Organic,Cloverprises
+837,12,0,1,9,441,98,76,31.54,SEO/Organic,Cloverprises
+838,5,0,0,4,1806,1,0,0.14,SEO/Organic,Cloverprises
+839,3,1,1,10,602,2,1,0.01,SEO/Organic,Cloverprises
+840,5,0,0,9,1778,1,0,0.12,Social Media,Cloverprises
+841,7,1,1,5,54012,112,28,74.67,Social Media,Cloverprises
+842,9,0,0,5,252,15,10,2.31,Social Media,Cloverprises
+843,12,0,0,9,110474,180,105,85.59,Direct,Cloverprises
+844,12,1,1,10,7812,301,33,7.34,Direct,Cloverprises
+845,12,0,0,5,721,12,11,2.4,Direct,Cloverprises
+846,1,0,0,5,20587,4,3,0.33,Direct,Cloverprises
+847,10,0,1,4,49,7,1,2.33,Direct,Cloverprises
+848,8,0,1,8,2170,228,118,83.52,Direct,Cloverprises
+849,9,1,1,8,2289,9,3,0.1,Direct,Cloverprises
+850,12,0,1,2,11585,1387,74,350.13,Direct,Cloverprises
+851,6,1,1,9,2289,9,0,0.1,Influencer,Saturn Security
+852,12,0,0,10,973,1,0,0.12,Influencer,Saturn Security
+853,10,0,0,1,49,30,17,13.33,Influencer,Saturn Security
+854,9,0,1,8,133,9,8,1.13,Influencer,Saturn Security
+855,9,0,1,2,133,6,0,1.2,Influencer,Saturn Security
+856,9,0,1,6,48055,44,34,2.26,Influencer,Saturn Security
+857,8,0,0,6,1638,10,1,6.67,Affiliate,Saturn Security
+858,2,0,0,2,14,9,6,2.25,Affiliate,Saturn Security
+859,9,0,1,10,63,8,1,2.29,Affiliate,Saturn Security
+860,2,0,0,1,1274,52,9,14.7,Affiliate,Saturn Security
+861,2,0,1,7,322,15,0,1.15,Affiliate,Saturn Security
+862,6,0,1,6,1554,528,191,3.21,Affiliate,Saturn Security
+863,3,0,0,7,945,1,0,0.12,SEO/Organic,Saturn Security
+864,4,0,0,9,721,145,67,94.42,SEO/Organic,Saturn Security
+865,7,0,1,2,308,2,0,0.55,SEO/Organic,Saturn Security
+866,6,0,1,2,11585,777,697,199.32,SEO/Organic,Saturn Security
+867,4,1,1,2,123,85,19,3.45,SEO/Organic,Saturn Security
+868,3,0,1,5,11585,787,578,192.53,Social Media,Saturn Security
+869,9,0,0,3,1806,62,53,34.95,Social Media,Saturn Security
+870,6,1,1,6,16835,4614,50,390.79,Social Media,Saturn Security
+871,8,0,1,1,25830,479,168,145.39,Direct,Saturn Security
+872,4,0,1,3,50,7,0,0.53,Direct,Saturn Security
+873,3,0,1,5,910,76,51,47.64,Direct,Saturn Security
+874,8,0,0,7,203,3,0,1.0,Direct,Saturn Security
+875,7,0,0,9,1827,79,52,48.53,Direct,Saturn Security
+876,12,0,0,8,973,35,13,15.17,Direct,Saturn Security
+877,7,0,0,1,136213,6,5,0.28,Direct,Saturn Security
+878,8,1,1,8,30863,316,254,22.57,Direct,Saturn Security
+879,2,1,1,3,1965,5,3,0.05,Direct,Saturn Security
+880,6,0,1,7,161,1,0,0.24,Direct,Saturn Security
+881,8,0,1,7,987,2,1,0.24,Influencer,Primepoly
+882,5,0,0,8,7,1,0,0.12,Influencer,Primepoly
+883,2,1,1,1,469,1,0,0.12,Influencer,Primepoly
+884,1,0,1,9,49,3,1,0.37,Influencer,Primepoly
+885,8,1,0,2,182,3,0,0.11,Influencer,Primepoly
+886,11,0,0,5,1526,3,1,0.27,Influencer,Primepoly
+887,1,0,1,5,910,38,28,10.06,Affiliate,Primepoly
+888,7,0,1,7,77,25,6,21.59,Affiliate,Primepoly
+889,4,0,1,10,165361,142,21,59.73,Affiliate,Primepoly
+890,2,1,1,2,10423,41,6,5.01,Affiliate,Primepoly
+891,8,0,1,8,63,5,3,1.25,Affiliate,Primepoly
+892,8,0,1,3,8,1,0,0.08,Affiliate,Primepoly
+893,13,1,1,5,469,4,2,0.02,SEO/Organic,Primepoly
+894,6,0,1,10,336,105,19,22.58,SEO/Organic,Primepoly
+895,7,0,1,6,4060,17,11,1.49,SEO/Organic,Primepoly
+896,10,0,0,10,84,1,0,0.12,SEO/Organic,Primepoly
+897,8,1,1,10,7812,1,0,0.02,SEO/Organic,Primepoly
+898,10,0,1,6,7,3,0,0.02,SEO/Organic,Primepoly
+899,8,1,1,6,15554,1351,870,16.22,SEO/Organic,Primepoly
+900,7,0,1,8,77,2,0,0.47,SEO/Organic,Primepoly
+901,5,0,0,10,511,51,40,17.0,SEO/Organic,Primepoly
+902,12,0,1,9,21,1,0,0.12,SEO/Organic,Primepoly
+903,5,0,1,4,245,10,4,1.11,Social Media,Primepoly
+904,3,0,0,5,574,22,7,8.11,Social Media,Primepoly
+905,8,1,1,1,16835,301,33,5.34,Social Media,Primepoly
+906,6,1,1,1,987,6,0,0.06,Social Media,Primepoly
+907,11,0,1,1,910,43,19,14.71,Social Media,Primepoly
+908,3,0,1,7,3472,57,43,27.94,Social Media,Primepoly
+909,7,0,0,6,1113,5,1,1.25,Social Media,Primepoly
+910,12,0,0,2,91,3,1,0.12,Social Media,Primepoly
+911,8,0,1,1,161,16,14,3.43,Social Media,Primepoly
+912,3,0,0,6,161,5,2,2.5,Social Media,Primepoly
+913,3,0,1,8,28,1,0,0.12,Direct,Primepoly
+914,4,0,0,4,56,1,0,0.12,Direct,Primepoly
+915,11,0,0,4,49,1,0,0.25,Direct,Primepoly
+916,8,0,0,5,532,1,0,0.12,Direct,Primepoly
+917,10,0,0,6,3745,1,0,0.12,Direct,Primepoly
+918,8,0,1,7,210,23,6,4.6,Direct,Primepoly
+919,4,0,1,10,63,1,0,0.12,Direct,Primepoly
+920,1,0,0,1,525,1,0,0.12,Direct,Primepoly
+922,3,0,1,5,119,1,0,0.12,Direct,Primepoly
+923,13,0,1,6,308,169,42,46.66,Direct,Primepoly
